@@ -1,0 +1,7 @@
+<resources>
+    <!--APP Name-->
+    <string name="app_name">Assignment7.1</string>
+    <!--Text for the button that displays SEARCH GOOGLE-->
+    <string name="button_name">SEARCH GOOGLE</string>
+
+</resources>
